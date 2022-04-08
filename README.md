@@ -1,7 +1,3 @@
-<a href="#">
-    <img src="https://github.com/JohnnyNF/JohnnyNF/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
-</a>
-
 :department_store: Estou trabalhando na <a href="https://www.oabrs.org.br/">OAB/RS</a> como estagiário.
 <br />
 :heart:  Gosto de tecnologia, animais e jogos!
