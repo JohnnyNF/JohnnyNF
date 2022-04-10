@@ -17,7 +17,7 @@
 <br />
 :speech_balloon: Pergunta-me qualquer coisa <a href="https://github.com/JohnnyNF/JohnnyNF/issues">aqui.</a>
 <br />
-:link: <a href="https://linktr.ee/JohnnyNF">Minhas Redes Sociais.</a>
+:link: <a href="https://linkr.bio/johnnynf">Minhas Redes Sociais.</a>
 
 <img src="https://komarev.com/ghpvc/?username=JohnnyNF&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
 
