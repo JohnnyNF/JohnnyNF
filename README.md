@@ -55,3 +55,5 @@
       </a>
     </p>
 </details>
+  
+  ![Snake animation](https://github.com/JohnnyNF/JohnnyNF/blob/output/github-contribution-grid-snake.svg)
