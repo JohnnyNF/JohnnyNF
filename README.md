@@ -1,3 +1,17 @@
+
+### Olá, tudo certo? Eu sou o Jhonatan 😁!
+
+<div align="left">
+  <a href="https://github.com/JohnnyNF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyNF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyNF&layout=compact&langs_count=7&theme=dark" />
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Johnny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Johny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 :department_store: Estou trabalhando na <a href="https://www.oabrs.org.br/">OAB/RS</a> como estagiário.
 <br />
 :heart:  Gosto de tecnologia, animais e jogos!
