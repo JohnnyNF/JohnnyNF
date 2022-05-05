@@ -11,6 +11,7 @@
   <img align="center" alt="Johny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+ 
 :department_store: Estou trabalhando na <a href="https://www.oabrs.org.br/">OAB/RS</a> como estagiário.
 <br />
 :heart:  Gosto de tecnologia, animais e jogos!
