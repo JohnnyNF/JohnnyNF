@@ -14,8 +14,8 @@
 </div>
 
  
-:department_store: Estou trabalhando na <a href="https://www.oabrs.org.br/">OAB/RS</a> como estagiário.
-<br />
+
+
 :heart:  Gosto de tecnologia, animais e jogos!
 <br />
 :speech_balloon: Pergunta-me qualquer coisa <a href="https://github.com/JohnnyNF/JohnnyNF/issues">aqui.</a>
